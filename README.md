@@ -1,1 +1,4 @@
-# WindowsFormsApp1
+# Auto Window Mover
+### The code checks if a specific text is contained within a whole window title, if the check gives true, the window will be moved.
+### There are cases when you can't see the title of a visible window, that's where the window titles in the listbox comes into use.
+### The app window will start hidden but it has a notification icon to the right lower corner. If you right click and choose "Move windows", don't do it if you have not made the settings yet - click Show in the menu and type in the titles of the windows you want to move. Also make sure they are maximized, otherwise they might move too far away and you won't be able to see them.)
